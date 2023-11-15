@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1061751230291",
+    "firebase_url": "https://kaylademo-default-rtdb.firebaseio.com",
+    "project_id": "kaylademo",
+    "storage_bucket": "kaylademo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061751230291:android:3dbfc825bad9dc05b21ba6",
+        "android_client_info": {
+          "package_name": "com.example.demokayla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061751230291-2gftqh3qijfmv86b6ta984g7j4shsdtg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.demokayla",
+            "certificate_hash": "8195890db8a7a857c9bde47e03bb2d9bc665e9a8"
+          }
+        },
+        {
+          "client_id": "1061751230291-tvj12rh196od1m7gm5njdj95rbllaeug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiSaglu0uuBZLUJBtSEDGOIoP_RBfIUdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061751230291-tvj12rh196od1m7gm5njdj95rbllaeug.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1061751230291-ifrtlak64sf63kfn2g1r7ltfu9s5kp1c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.demokayla.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
